@@ -56,7 +56,7 @@ A robust mock payment gateway supporting multiple methods:
 ## 📂 Project Structure
 The system is built on an Object-Oriented architecture. Below is a high-level view of the class relationships:
 
-*(Note: You can upload your ClassDiagram.jpg to the repo and link it here like this: `![Class Diagram](ClassDiagram.jpg)`)*
+*![Class Diagram](ClassDiagram.jpg)*
 
 * **AdminFrame:** Handles administrative UI and logic.
 * **CustomerFrame:** Handles booking UI and logic.
